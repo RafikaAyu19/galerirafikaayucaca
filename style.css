@@ -1,4 +1,27 @@
+header {
+  height: 70px;
+}
+header h1 {
+  display: inline block;
+  float: left;
+  padding: 19.5px 24px;
+  text-transform: uppercase;
+  color: black;
+}
+header ul {
+  float: right;
+}
+header ul li {
+  padding: 23.5px;
+  display: inline block;
+}
 .logo {
   height: 100px;
   width: 100px;
+}
+a {
+  text-decoration: none;
+}
+h1 {
+  color: black;
 }
